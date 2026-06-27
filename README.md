@@ -15,14 +15,13 @@ A full‑stack AI platform that predicts customer churn and revenue, explains pr
 
 🧰 Tech Stack
 
-| Backend | Frontend 
-| Python 3.12 | React 18 |
-| FastAPI | Vite | Git |
-| Scikit‑learn | Tailwind CSS |
-| XGBoost | Chart.js |
-| SHAP | jsPDF | |
-| Pandas / NumPy | Axios |
-| Joblib |
+Python 3.12 | React 18 |
+FastAPI | Vite | Git |
+Scikit‑learn | Tailwind CSS |
+XGBoost | Chart.js |
+SHAP | jsPDF | |
+Pandas / NumPy | Axios |
+Joblib
 
 ---
 
